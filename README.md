@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am MERN Stack developer.<br>Learning Next JS rn.<br>From childhood wanted to become a computer engineer :D<br>
+I am MERN Stack developer.<br>🔍I’m looking - To collaborate on open source projects.<br>➕Fun fact: I can speak in 3 language<br>
 
 
 ## 🌐 Socials:
