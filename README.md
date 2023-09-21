@@ -23,5 +23,8 @@ I am MERN Stack developer.<br>Learning Next JS rn.<br>From childhood wanted to b
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ragibSahriar&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://raw.githubusercontent.com/ragibSahriar/ragibSahriar/output/snake.svg" alt="Snake animation" />
+
+###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
